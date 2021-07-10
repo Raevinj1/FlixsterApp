@@ -19,10 +19,10 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthough GIF
 
-<img src="https://i.imgur.com/fzRTKQC.gif"><br>
+<img src="https://i.imgur.com/5k2TgUJ.gif"><br>
 
 ### Notes
-I had challenges with the RecyclerView, returning the value for movies.size(), and the emulator experiencing issues separate from my code.
+I had challenges with the app walkthrough gif, the RecyclerView, returning the value for movies.size(), and the emulator experiencing issues separate from my code.
 
 ### Open-source libraries used
 
